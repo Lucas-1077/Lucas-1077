@@ -1,7 +1,7 @@
-<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=110&section=header"/>
+<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=150&section=header"/>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=robot+slab&weight=300&pause=1000&color=FFFFFF&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Lucas;Seja+bem+vindo+ao+meu+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=robot+slab&weight=200&pause=1000&color=FFFFFF&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Lucas;Seja+bem+vindo+ao+meu+Github" alt="Typing SVG" /></a>
 </div>
 
 
@@ -33,13 +33,13 @@
 </div>
 
 <div align='center'>
-  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
 <div>
   <p> </p>
 </div>
 
-<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=110&section=footer"/>
+<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=140&section=footer"/>
