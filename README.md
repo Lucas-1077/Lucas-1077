@@ -27,3 +27,19 @@
 </picture>
 
 ---
+
+<div align='center'>
+  <p>Este github vai conter algumas atividades e projetos que vou esta desenvolvendo durante minha faculdade, pretendo preencher bem mais, com mais repositórios e linguagens de programação</p>
+</div>
+
+<div align='center'>
+  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
+
+<div>
+  <p> </p>
+</div>
+
+<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=110&section=footer"/>
