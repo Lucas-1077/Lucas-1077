@@ -6,8 +6,24 @@
 
 
 <div align='center'>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-4169E1?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoaolucas-s">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=4169E1&link=joaolucasoliveiradesouza31%40gmail.com">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=4169E1)](mailto:joaolucasoliveiradesouza31@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/joaolucas-s)
+
 </div>
+
+---
+
+<div align='center'>
+  
+  | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-1077&theme=moonlight&animation=load&title_color=ffffff&border_color=000000&icon_color=1c61a0&chart_color=1c61a0) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-1077&theme=moonlight&animation=load&title_color=ffffff&border_color=000000&icon_color=1c61a0&chart_color=1c61a0) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-1077&theme=moonlight&animation=load&name=Lucas-1077&title_color=ffffff&border_color=000000&icon_color=1c61a0&chart_color=1c61a0) |
+| :-: | :-: | :-: |
+  
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-1077/Lucas-1077/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Lucas-1077/Lucas-1077/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
